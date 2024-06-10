@@ -19,3 +19,8 @@
 - Karşılaştırma ve Mantıksal Operatörler
 - Karar Yapıları
 - Döngüler
+
+### 4.Hafta Çalışmaları
+- Listeler ve Liste Metodları
+- Tuple (Demet) - Set (Küme) - Dictionary (Sözlük)
+- String ve String Metodları
