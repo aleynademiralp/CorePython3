@@ -24,3 +24,9 @@
 - Listeler ve Liste Metodları
 - Tuple (Demet) - Set (Küme) - Dictionary (Sözlük)
 - String ve String Metodları
+
+### 5.Hafta Çalışmaları
+- List Comprehension
+- Fonksiyonlar ve Argüman
+- return, *args, **kwargs ve pass deyimi
+- Global ve Yerel Değişkenler , Lambda Gösterimi
